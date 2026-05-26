@@ -1,0 +1,3 @@
+Litecoin Network Only
+
+# ltc1qtxvy57u89tphvnaj6drruj8cqj4xssykv3z6f4
